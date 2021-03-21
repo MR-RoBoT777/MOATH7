@@ -1,0 +1,102 @@
+ *{
+	margin :0;
+	padding: 0;
+
+}
+body{
+	font-family: monospace;
+
+}
+header {
+	height: 100vh;
+	background-image:cover;
+	background-size:100%;
+.container {
+	width: 1200px;
+	margin:auto;
+}
+.logo img {
+	width: 250px;
+	height: auto;
+	margin-top:25px;
+}
+.nav-main {
+	float: right;
+	margin-top: 30px;
+}
+.nav-main li :hover{
+	border:1px solid #000;
+	background-color: #a16205;
+
+}
+.nav-main li {
+	list-style: none;
+	display:inline-block;
+	margin-right:20px;
+}
+.nav-main li a {
+	text-decoration:none;
+	font-size: 20px;
+	padding:10px 30px;
+	text-transform: uppercase;
+	color: white;
+	font-family:"Anton",sans-serif;
+}
+.nav-main li a.active{
+	border:1px solid #fff;
+}
+.titleHeader{
+	width: 1200px;
+	position:absolute;
+	margin:0;
+	padding:0;
+
+
+	text-align: center;
+}
+h1{
+	text-transform: uppercase;
+	font-family:"Anton",sans-serif;
+	font-size: 30px;
+	margin-top:110px;
+
+	
+	color:#fff;
+}
+.btn{
+	padding: 20px 20px;
+	border:1px solid #fff;
+	margin-right: 5px;
+	text-align: center;
+	margin-top:20px;
+	font-style:italic;
+
+}
+.btn-one:hover{
+	border : 1px solid #000;
+	background-color:#083538;
+
+}
+
+.btn-two:hover{
+	border : 1px solid #000;
+	background-color:#083538;
+
+}
+.PPP1{
+	background-color:#189199;
+	font-family:"Anton",sans-serif;
+	font-size: 20px;
+	margin-top:110px;
+
+
+}
+
+h3  h4{
+	text-transform: uppercase;
+	font-family:"Anton",sans-serif;
+	font-size: 30px;
+	margin-top:110px;
+
+	
+	color:#fff;
