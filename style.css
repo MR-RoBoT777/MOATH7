@@ -1,8 +1,7 @@
 * {
 	margin :0;
 	padding: 0;
-	background-color : black;
-	color-width : 1200px;
+	background-image:linear-gradient(rgba(0,0,0,0.5),rgba(0,0,0,0.5)),url('222.png');
 }
 body{
 	font-family: monospace;
