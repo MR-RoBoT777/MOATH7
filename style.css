@@ -91,8 +91,8 @@ h1{
 	background-color:black;
 	color: white;
 	font-size: 20px;
-	margin :0;
-	padding: 0;
+	margin 100%;
+	padding: 100%;
 }
 
 h3  h4{
@@ -109,7 +109,7 @@ h3  h4{
 	color: white;
 	font-size: 20px;
 	margin-top:110px;
-	margin :0;
-	padding: 0;
+	margin 100%;
+	padding: 10%;
 
 }
